@@ -6,19 +6,20 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🎨 1. [AI Art Generator](https://submitaitools.org/category/best-ai-art-generator-tools)  
+## 🎨 1. [AI Art Generator](https://submitaitools.org/category/best-ai-art-generator-tools)
 **Description:** Generate stunning artwork from text prompts using advanced AI models.
 
 **Top Tools:**
 - [Midjourney](https://www.midjourney.com/)
 - [DALL·E](https://openai.com/dall-e)
 - [Dream by WOMBO](https://www.wombo.art/)
+- [Pollinations.AI](https://pollinations.ai/) - Free, no-signup text, image, and audio generation APIs with no API keys required
 - [StarryAI](https://www.starryai.com/)
 - [NightCafe](https://creator.nightcafe.studio/)
 
 ---
 
-## 🌐 2. [AI Website Designer](https://submitaitools.org/category/best-ai-website-designer-tools)  
+## 🌐 2. [AI Website Designer](https://submitaitools.org/category/best-ai-website-designer-tools)
 **Description:** Create entire websites from simple prompts or drag-and-drop using AI-powered design systems.
 
 **Top Tools:**
@@ -30,7 +31,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🎞️ 3. [AI Colorize](https://submitaitools.org/category/best-ai-colorize-tools)  
+## 🎞️ 3. [AI Colorize](https://submitaitools.org/category/best-ai-colorize-tools)
 **Description:** Add realistic colors to black and white photos, drawings, or videos using AI.
 
 **Top Tools:**
@@ -42,7 +43,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🧩 4. [AI Design Generator](https://submitaitools.org/category/best-ai-design-generator-tools)  
+## 🧩 4. [AI Design Generator](https://submitaitools.org/category/best-ai-design-generator-tools)
 **Description:** Automatically generate design ideas, mockups, or UI elements from simple input.
 
 **Top Tools:**
@@ -54,7 +55,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🖼️ 5. [AI Graphic Design](https://submitaitools.org/category/best-ai-graphic-design-tools)  
+## 🖼️ 5. [AI Graphic Design](https://submitaitools.org/category/best-ai-graphic-design-tools)
 **Description:** AI tools to help create logos, posters, social media graphics, and brand kits.
 
 **Top Tools:**
@@ -66,7 +67,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🏡 6. [AI Interior & Room Design](https://submitaitools.org/category/best-ai-interior-room-design-tools)  
+## 🏡 6. [AI Interior & Room Design](https://submitaitools.org/category/best-ai-interior-room-design-tools)
 **Description:** Redesign rooms, suggest furniture layouts, or visualize home styles using AI.
 
 **Top Tools:**
@@ -78,7 +79,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🟦 7. [AI Pixel Art](https://submitaitools.org/category/best-ai-pixel-art-tools)  
+## 🟦 7. [AI Pixel Art](https://submitaitools.org/category/best-ai-pixel-art-tools)
 **Description:** Generate or upscale pixel-based images using AI for games or retro style visuals.
 
 **Top Tools:**
@@ -90,7 +91,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🎌 8. [AI Anime Art](https://submitaitools.org/category/best-ai-anime-art-tools)  
+## 🎌 8. [AI Anime Art](https://submitaitools.org/category/best-ai-anime-art-tools)
 **Description:** Create anime-style images or characters from prompts or sketches.
 
 **Top Tools:**
@@ -102,7 +103,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🧠 9. [AI Design Assistant](https://submitaitools.org/category/best-ai-design-assistant-tools)  
+## 🧠 9. [AI Design Assistant](https://submitaitools.org/category/best-ai-design-assistant-tools)
 **Description:** AI-powered co-pilots for brainstorming, layouts, and creative direction in design.
 
 **Top Tools:**
@@ -114,7 +115,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 ---
 
-## 🔤 10. [AI Font](https://submitaitools.org/category/best-ai-font-tools)  
+## 🔤 10. [AI Font](https://submitaitools.org/category/best-ai-font-tools)
 **Description:** Create, explore, or customize fonts and typefaces using artificial intelligence.
 
 **Top Tools:**
