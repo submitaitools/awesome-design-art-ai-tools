@@ -16,6 +16,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Pollinations.AI](https://pollinations.ai/) - Free, no-signup text, image, and audio generation APIs with no API keys required
 - [StarryAI](https://www.starryai.com/)
 - [NightCafe](https://creator.nightcafe.studio/)
+- [AI Image Lab](https://aiimagelab.art/) - Free AI image generator with curated prompt library across 8 categories. 4K output.
 
 ---
 
