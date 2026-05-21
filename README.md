@@ -52,6 +52,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Looka](https://looka.com/)
 - [Khroma](http://khroma.co/)
 - [Canva AI](https://www.canva.com/)
+- [LandscapioAI](https://www.landscapioai.com/) - Free AI landscape design generator for outdoor redesign concepts, cost estimates, and contractor-ready plans.
 
 ---
 
