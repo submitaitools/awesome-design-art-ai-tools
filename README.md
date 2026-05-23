@@ -64,6 +64,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Fotor](https://www.fotor.com/)
 - [VistaCreate](https://create.vista.com/)
 - [RelayThat](https://relaythat.com/)
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based AI design utilities: AI background remover (runs locally via ONNX/WASM), OG image generator, favicon generator, and color palette generator. No signup, open source.
 
 ---
 
