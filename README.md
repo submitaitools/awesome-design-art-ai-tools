@@ -16,6 +16,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Pollinations.AI](https://pollinations.ai/) - Free, no-signup text, image, and audio generation APIs with no API keys required
 - [StarryAI](https://www.starryai.com/)
 - [NightCafe](https://creator.nightcafe.studio/)
+- [Seedream AI Studio](https://seedream4.video/) - Multi-model AI image generation platform by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena 2025. Free tier available.
 
 ---
 
