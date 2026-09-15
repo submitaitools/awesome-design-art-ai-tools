@@ -112,6 +112,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Uizard](https://uizard.io/)
 - [Jasper Art](https://www.jasper.ai/art)
 - [Khroma](http://khroma.co/)
+- [Orkas](https://orkas.ai/agents/image-studio/?source=gh_submitart) - ImageStudio creates and edits visual assets inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
 
 ---
 
