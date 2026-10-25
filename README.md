@@ -16,6 +16,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Pollinations.AI](https://pollinations.ai/) - Free, no-signup text, image, and audio generation APIs with no API keys required
 - [StarryAI](https://www.starryai.com/)
 - [NightCafe](https://creator.nightcafe.studio/)
+- [PromptImage](https://promptimage.cloud/)
 
 ---
 
@@ -60,6 +61,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 **Top Tools:**
 - [Canva](https://www.canva.com/)
+- [TeslaWraps](https://teslawraps.design/) — Browser Tesla wrap designer; core editing free, no account
 - [Designify](https://www.designify.com/)
 - [Fotor](https://www.fotor.com/)
 - [VistaCreate](https://create.vista.com/)
