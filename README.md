@@ -47,6 +47,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 **Description:** Automatically generate design ideas, mockups, or UI elements from simple input.
 
 **Top Tools:**
+- [Ideoy](https://ideoy.ai) - Remake trending AI meme / viral video templates from one photo or selfie
 - [Designs.ai](https://designs.ai/)
 - [Uizard](https://uizard.io/)
 - [Looka](https://looka.com/)
