@@ -11,6 +11,8 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 **Top Tools:**
 - [Midjourney](https://www.midjourney.com/)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
 - [DALL·E](https://openai.com/dall-e)
 - [Dream by WOMBO](https://www.wombo.art/)
 - [Pollinations.AI](https://pollinations.ai/) - Free, no-signup text, image, and audio generation APIs with no API keys required
