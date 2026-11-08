@@ -60,6 +60,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 
 **Top Tools:**
 - [Canva](https://www.canva.com/)
+- [AdVariq](https://advariq.com/) - AI ad creative and marketing visual generator for solo founders, marketers, and startups.
 - [Designify](https://www.designify.com/)
 - [Fotor](https://www.fotor.com/)
 - [VistaCreate](https://create.vista.com/)
