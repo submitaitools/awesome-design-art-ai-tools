@@ -76,6 +76,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Interior AI](https://interiorai.com/)
 - [DecorMatters](https://decormatters.com/)
 - [Reimagine Home](https://reimaginehome.ai/)
+- [EmptyRoom AI](https://emptyroomai.com/) - AI virtual staging for real estate photos, $4.00 per room with unlimited free restages
 
 ---
 
